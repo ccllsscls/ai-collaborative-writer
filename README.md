@@ -1,4 +1,4 @@
-# Shadow Writer OS
+# AI collaborative Writer OS
 
 > AI doesn't replace judgment. It rewards it.
 
